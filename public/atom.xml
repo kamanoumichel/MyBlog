@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+    <title type="text">mkgmDev Blog</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2023-03-06T05:21:03&#43;01:00</updated>
+    <id>https://mkgmblog.netlify.app/</id>
+    <link rel="alternate" type="text/html" href="https://mkgmblog.netlify.app/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://mkgmblog.netlify.app/atom.xml" />
+    <author>
+            <name>mkgm</name>
+            <uri>https://mkgmblog.netlify.app/</uri>
+            
+                <email>kamanoumichel@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+        <entry>
+            <title type="text">Article 2</title>
+            <link rel="alternate" type="text/html" href="https://mkgmblog.netlify.app/posts/article-2/" />
+            <id>https://mkgmblog.netlify.app/posts/article-2/</id>
+            <updated>2023-03-05T22:17:15&#43;01:00</updated>
+            <published>2023-03-05T20:59:59&#43;00:00</published>
+            <author>
+                    <name>mkgm</name>
+                    <uri>https://mbuyikamanouglorieux.netlify.app/</uri>
+                    <email>kamanoumichel@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Ceux est une description de l&#39;article 2
+</summary>
+            
+                <content type="html"></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://mkgmblog.netlify.app/categories/categorie1/" term="categorie1" label="categorie1" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://mkgmblog.netlify.app/tags/tag1/" term="tag1" label="tag1" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://mkgmblog.netlify.app/tags/tag2/" term="tag2" label="tag2" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://mkgmblog.netlify.app/posts/world/" />
+            <id>https://mkgmblog.netlify.app/posts/world/</id>
+            <updated>2023-03-05T21:55:33&#43;01:00</updated>
+            <published>2023-03-05T00:06:24&#43;01:00</published>
+            <author>
+                    <name>mkgm</name>
+                    <uri>https://mbuyikamanouglorieux.netlify.app/</uri>
+                    <email>kamanoumichel@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Ceux-ci est une description</summary>
+            
+                <content type="html">&lt;h1 id=&#34;titre-de-niveau-1&#34;&gt;Titre de niveau 1&lt;/h1&gt;
+&lt;h2 id=&#34;titre-de-niveau-2&#34;&gt;Titre de niveau 2&lt;/h2&gt;
+&lt;h3 id=&#34;voici-une-liste&#34;&gt;Voici une liste&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item1&lt;/li&gt;
+&lt;li&gt;Item2&lt;/li&gt;
+&lt;li&gt;Item3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;voici-un-tableau&#34;&gt;Voici un tableau&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Colonne 1&lt;/th&gt;
+&lt;th&gt;Colonne 2&lt;/th&gt;
+&lt;th&gt;Colonne 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Item 1&lt;/td&gt;
+&lt;td&gt;Item 2&lt;/td&gt;
+&lt;td&gt;Item3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Erika&lt;/td&gt;
+&lt;td&gt;Grâce&lt;/td&gt;
+&lt;td&gt;Hilarie&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Alain&lt;/td&gt;
+&lt;td&gt;Aristide&lt;/td&gt;
+&lt;td&gt;Jerôle&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ceux-ci-est-une-image&#34;&gt;Ceux-ci est une image&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://mkgmblog.netlify.app/desk-g75876392c_1920.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://mkgmblog.netlify.app/categories/categorie1/" term="categorie1" label="categorie1" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://mkgmblog.netlify.app/tags/tag1/" term="tag1" label="tag1" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://mkgmblog.netlify.app/tags/tag2/" term="tag2" label="tag2" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
