@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://mkgmblog.netlify.app/"
 title = "mkgmDev Blog"
 languageCode = "fr"
 hasCJKLanguage = false
